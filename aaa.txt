@@ -6,3 +6,5 @@ tiếp tục sửa file while not pull from remote
 
 
 sửa first
+
+chỉnh branch D
